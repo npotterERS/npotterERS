@@ -1,5 +1,5 @@
-Hello, I'm a Research Agricultural Economist at the USDA Economic Research Service. 
-In my work I use survey and spatial data to examine issues related to water, climate, and irrigated agriculture. 
+I'm a Research Agricultural Economist at the USDA Economic Research Service. 
+In my work I use survey and spatial data to examine issues related to water and irrigated agriculture. 
 
 I work with the goal of making my research as `reproducible`, `accessible`, and `open`. `Reproducible` in the sense that
 results can be reproduced from raw data sources via code. `Accessible` in the sense that data, methods, and results are easily 
